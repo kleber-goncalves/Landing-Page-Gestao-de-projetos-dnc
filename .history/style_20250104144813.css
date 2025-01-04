@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+#topo {
+    display:flex ;
+    flex-direction: row;
+    justify-items: flex-start;
+    align-items: center;
+}
+
+#elemnt-topo > h1 {
+    width: Fixed (665px)px;
+     height: Fixed (164px)px;
+top: 236px;
+left: 121px;
+gap: 0px;
+opacity: 0px;
+
+}

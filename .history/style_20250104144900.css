@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+#topo {
+    display:flex ;
+    flex-direction: row;
+    justify-items: flex-start;
+    align-items: center;
+}
+
+#elemnt-topo > h1 {
+    width: 665px;
+    height: 164px;
+    font-family: Manrope;
+font-size: 64px;
+font-weight: 800;
+line-height: 82px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}

@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+#topo {
+    display:flex ;
+    flex-direction: row;
+    justify-items: flex-start;
+    align-items: center;
+}
+
+#elemnt-topo > h1 {
+    width: 665px;
+    height: 164px;
+    font-family: "Manrope", serif;
+    font-size: 64px;
+    font-weight: 800;
+    color: black;
+}
+
+#elemnt-topo > p {
+    font-family: "Manrope", serif;
+    width:  650px;
+    height: 99px;
+    font-family: Manrope;
+    font-size: 20px;
+font-weight: 400;
+
+}

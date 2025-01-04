@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    font-family: 'Manrope', sans-serif;
+    font-size: 100%;
+    box-sizing: border-box;
+    }
+
+#topo {
+    display:flex ;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-content: center;
+}

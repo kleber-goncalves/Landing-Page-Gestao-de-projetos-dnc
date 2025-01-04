@@ -1,0 +1,118 @@
+body {
+    margin: 0;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+
+
+
+
+#topo {
+    width:  1440px;
+    height:  754px;
+    background-image: url(/img/topo-fundo.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display:flex ;
+    flex-direction: column;
+    justify-items: flex-start;
+}
+
+#topo > #elemnt-topo {
+    margin-left: 121px;
+    margin-top: 236px;
+}
+
+#elemnt-topo > h1 {
+    width: 665px;
+    height: 164px;
+    font-family: "Manrope", serif;
+    font-size: 64px;
+    font-weight: 800;
+    color: black;
+}
+
+#elemnt-topo > p {
+    font-family: "Manrope", serif;
+    width:  650px;
+    height: 99px;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+
+#txts-meio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#txts-meio > h2 {
+    width: 428px;
+    height: 56px;
+    color: black;
+    font-family: "Manrope", serif;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 49.18px;
+}
+
+
+#txts-meio > p {
+    width:  994px;
+    height:  109px;
+    color: black;
+    font-family: "Manrope", serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 39.5px;
+    text-align: center;
+}
+
+
+
+
+#icons-pai-meio {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 35px;
+}
+
+.card-icons {
+
+}
+
+.img-icons {
+    align-items: center;
+    width: 81px;
+    height: 76px;
+}
+
+
+.txt-icons {
+    width:  284px;
+    height:  31px;
+    font-family: "Manrope", serif;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 32.78px;
+    text-align: center;
+}
+
+.sub-icons {
+    width:  298px;
+    height:  84px;
+    font-family: "Manrope", serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: center;
+}
