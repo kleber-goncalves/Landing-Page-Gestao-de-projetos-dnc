@@ -182,7 +182,9 @@ body {
 
 
 .subs-elemt2 {
+    width: 115px;
     font-family: "Manrope", serif;
+    font-size: 18px;
     font-weight: 700;
     line-height: 31px;
     text-align: left;

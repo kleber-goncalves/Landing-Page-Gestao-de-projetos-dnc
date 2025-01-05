@@ -144,10 +144,58 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 68px;
-    padding-left: 243px;
-    padding-bottom: 78px;
-    padding-right: 243px;
+    <section id="meio-2" style="
+    margin-top: 68px;
+    margin-left: 248px;
+    margin-bottom: 78px;
+    margin-right: 243px;
+">
+
+            <div id="elemt1-meio-2">
+
+
+                <p id="txt-meio-2">
+                    O que oferecemos de melhor?
+                </p>
+                <p id="sub-meio-2">
+                    Soluções suportadas por IoT
+                </p>
+
+
+            </div>
+
+            <div id="elemt2-meio-2">
+
+                <div class="subs-elemt2">
+                    <p>Qualidade de Software</p>
+                </div>
+
+                <div class="icons-elemt2">
+                    <img src="/img/icons-meio.img/setas.svg" alt="setas">
+                </div>
+
+                <div class="subs-elemt2">
+                    <p>Prever possíveis erros na aplicação</p>
+                </div>
+
+                <div class="icons-elemt2">
+                    <img src="/img/icons-meio.img/setas.svg" alt="setas">
+                </div>
+                <div class="subs-elemt2">
+                    <p>Evitar  possíveis riscos</p>
+                </div>
+
+                <div class="icons-elemt2">
+                    <img src="/img/icons-meio.img/setas.svg" alt="setas">
+                </div>
+
+                <div class="subs-elemt2">
+                    <p>Economia de tempo e custo</p>
+                </div>
+
+            </div>
+
+        </section>
     gap: 64px;
 }
 
@@ -182,7 +230,10 @@ body {
 
 
 .subs-elemt2 {
+    width: 115px;
+    height: 62px;
     font-family: "Manrope", serif;
+    font-size: 18px;
     font-weight: 700;
     line-height: 31px;
     text-align: left;

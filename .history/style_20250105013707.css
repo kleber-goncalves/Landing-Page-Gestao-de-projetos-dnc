@@ -139,56 +139,7 @@ body {
 
 
 #meio-2 {
-    color: #FFFFFF;
-    background-color: #F84646;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    padding-top: 68px;
-    padding-left: 243px;
-    padding-bottom: 78px;
-    padding-right: 243px;
-    gap: 64px;
-}
-
-#txt-meio-2 {
-    width: 836px;
-    height: 64px;
-    font-family: "Manrope", serif;
-    font-size: 48px;
-    font-weight: 800;
-    line-height: 64px;
-    text-align: center;
-}
-
-
-#sub-meio-2 {
-    width: 836px;
-    height: 32px;
-    font-family: "Manrope", serif;
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 32px;
-    text-align: center;
-}
-
-
-
-#elemt2-meio-2 {
-    display: flex;
-    align-items: center;
-    gap: 40px;
-}
-
-
-.subs-elemt2 {
-    font-family: "Manrope", serif;
-    font-weight: 700;
-    line-height: 31px;
-    text-align: left;
-}
-
-.icons-elemt2 {
-    width: 32px;
-    height: 32px;
+    agrp
 }

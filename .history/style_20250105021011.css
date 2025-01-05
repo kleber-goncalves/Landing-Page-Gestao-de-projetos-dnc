@@ -146,8 +146,8 @@ body {
     align-items: center;
     padding-top: 68px;
     padding-left: 243px;
-    padding-bottom: 78px;
-    padding-right: 243px;
+    -bottom: 78px;
+    margin-right: 243px;
     gap: 64px;
 }
 
@@ -182,7 +182,10 @@ body {
 
 
 .subs-elemt2 {
+    width: 115px;
+    height: 62px;
     font-family: "Manrope", serif;
+    font-size: 18px;
     font-weight: 700;
     line-height: 31px;
     text-align: left;
